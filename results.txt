@@ -1,0 +1,39 @@
+CMSC 142 
+MACHINE PROBLEM: TOWER OF HANOI
+TEST CASES RESULTS
+
+
+4 disks
+- 3544
+- 3223
+- 2979
+
+10 disks
+- 7310
+- 6122
+- 6528
+
+15 disks
+- 94479
+- 93088
+- 91113
+
+20 disks
+- 2826362  
+- 2761750
+- 2816200 
+
+30 disks
+-
+-
+-
+
+50 disks
+-
+-
+-
+
+64 disks
+-
+-
+- 
