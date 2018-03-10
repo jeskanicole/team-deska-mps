@@ -40,4 +40,15 @@ TEST CASES RESULTS
 64 disks
 -
 -
-- 
+-
+
+100 disks
+-
+-
+-
+
+500 disks
+-
+-
+-
+ 
