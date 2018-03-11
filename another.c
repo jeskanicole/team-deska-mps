@@ -9,9 +9,7 @@ double time1, timedif;
 
 int main(){   
 
-    int num;
-    printf("Enter the number of disks : ");
-    scanf("%d", &num);
+    int num = 3; //number of disks
     printf("The sequence of moves involved in the Tower of Hanoi are :\n");
     
     time1 = (double) clock();            /* get initial time */
