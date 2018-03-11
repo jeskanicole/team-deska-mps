@@ -8,13 +8,15 @@ void towers(int, char, char, char);
 double time1, timedif; 
 
 int main(){   
-    time1 = (double) clock();            /* get initial time */
-    time1 = time1 / CLOCKS_PER_SEC;      /*    in seconds    */
 
     int num;
     printf("Enter the number of disks : ");
     scanf("%d", &num);
     printf("The sequence of moves involved in the Tower of Hanoi are :\n");
+    
+    time1 = (double) clock();            /* get initial time */
+    time1 = time1 / CLOCKS_PER_SEC;      /*    in seconds    */
+
     towers(num, 'A', 'C', 'B');
 
 
